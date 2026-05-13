@@ -53,7 +53,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="/Satkuri_Chandra_Resume.pdf"
+            href="/Sumith_Chandra_Resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="text-sm px-4 py-2 rounded-lg border border-accent/50 text-accent-light hover:bg-accent/10 transition-all duration-200"
