@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Satkuri Chandra | AI/ML Engineer & Software Developer",
+  title: "Sumith Chandra Satkuri | AI/ML Engineer & Software Developer",
   description:
-    "Portfolio of Satkuri Chandra — IIT Kharagpur, AI/ML Engineer, Competitive Programmer, and Full-Stack Developer.",
+    "Portfolio of Sumith Chandra Satkuri — IIT Kharagpur, AI/ML Engineer, Competitive Programmer, and Full-Stack Developer.",
 };
 
 export default function RootLayout({

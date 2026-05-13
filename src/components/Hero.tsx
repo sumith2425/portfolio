@@ -41,7 +41,7 @@ export default function Hero() {
           className="text-5xl sm:text-7xl font-bold tracking-tight mb-6"
         >
           <span className="text-white">Hi, I&apos;m </span>
-          <span className="text-gradient">Satkuri Chandra</span>
+          <span className="text-gradient">Sumith Chandra</span>
         </motion.h1>
 
         <motion.p
@@ -50,7 +50,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-lg sm:text-xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed"
         >
-          AI/ML Engineer & Full-Stack Developer from{" "}
+          AI/ML Engineer & Full-Stack Developer, B.Tech graduate from{" "}
           <span className="text-slate-200 font-medium">IIT Kharagpur</span>.
           I build intelligent systems — from adversarial defense pipelines to
           agentic RAG applications.

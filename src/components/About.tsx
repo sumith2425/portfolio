@@ -27,7 +27,7 @@ export default function About() {
             className="md:col-span-3"
           >
             <p className="text-slate-300 leading-relaxed mb-6 text-lg">
-              I&apos;m a final-year B.Tech student at{" "}
+              I&apos;m a B.Tech graduate from{" "}
               <span className="text-white font-medium">IIT Kharagpur</span>{" "}
               specializing in AI/ML and systems engineering. My work spans from
               optimizing LLMs for on-device deployment to building adversarial
@@ -41,7 +41,7 @@ export default function About() {
             </p>
             <p className="text-slate-400 leading-relaxed">
               Outside research, I&apos;m an Expert on Codeforces (1820) and enjoy
-              building full-stack AI applications with agentic workflows.
+              building full-stack applications with agentic workflows.
             </p>
           </motion.div>
 

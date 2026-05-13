@@ -30,7 +30,7 @@ export default function Contact() {
           className="max-w-2xl mx-auto text-center"
         >
           <p className="text-slate-400 text-lg mb-10 leading-relaxed">
-            I&apos;m currently looking for full-time opportunities in AI/ML
+            I&apos;m actively looking for full-time opportunities in AI/ML
             engineering and software development. Feel free to reach out!
           </p>
 
