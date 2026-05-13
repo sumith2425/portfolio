@@ -83,10 +83,10 @@ export default function Hero() {
           className="flex items-center justify-center gap-5"
         >
           {[
-            { icon: FiGithub, href: "https://github.com/SumithChandra", label: "GitHub" },
-            { icon: FiLinkedin, href: "https://linkedin.com/in/satkuri-chandra", label: "LinkedIn" },
+            { icon: FiGithub, href: "https://github.com/sumith2425", label: "GitHub" },
+            { icon: FiLinkedin, href: "https://linkedin.com/in/sumith-chandra", label: "LinkedIn" },
             { icon: SiCodeforces, href: "https://codeforces.com/profile/Sumith_chandra", label: "Codeforces" },
-            { icon: FiMail, href: "mailto:satkuri.chandra@gmail.com", label: "Email" },
+            { icon: FiMail, href: "mailto:sumithsatkuri123@gmail.com", label: "Email" },
           ].map(({ icon: Icon, href, label }) => (
             <a
               key={label}

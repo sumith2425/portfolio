@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/satkuri-chandra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SumithChandra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sumith-chandra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sumith2425"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Sumith_chandra"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="mailto:satkuri.chandra@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sumithsatkuri123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -48,7 +48,7 @@ Deployment     → Vercel (recommended)
 
 ```bash
 # Clone the repository
-git clone https://github.com/SumithChandra/portfolio.git
+git clone https://github.com/sumith2425/portfolio.git
 cd portfolio
 
 # Install dependencies
@@ -226,9 +226,9 @@ A reliable UDP-like communication protocol implementation using **shared memory*
 
 I'm always open to opportunities, collaborations, and interesting conversations.
 
-- **Email:** [satkuri.chandra@gmail.com](mailto:satkuri.chandra@gmail.com)
-- **LinkedIn:** [linkedin.com/in/satkuri-chandra](https://linkedin.com/in/satkuri-chandra)
-- **GitHub:** [github.com/SumithChandra](https://github.com/SumithChandra)
+- **Email:** [sumithsatkuri123@gmail.com](mailto:sumithsatkuri123@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sumith-chandra](https://linkedin.com/in/sumith-chandra)
+- **GitHub:** [github.com/sumith2425](https://github.com/sumith2425)
 
 ---
 
