@@ -10,9 +10,9 @@ export default function Contact() {
   const inView = useInView(ref, { once: true, margin: "-100px" });
 
   const links = [
-    { icon: FiMail, label: "Email", href: "mailto:satkuri.chandra@gmail.com", value: "satkuri.chandra@gmail.com" },
-    { icon: FiGithub, label: "GitHub", href: "https://github.com/SumithChandra", value: "SumithChandra" },
-    { icon: FiLinkedin, label: "LinkedIn", href: "https://linkedin.com/in/satkuri-chandra", value: "satkuri-chandra" },
+    { icon: FiMail, label: "Email", href: "mailto:sumithsatkuri123@gmail.com", value: "sumithsatkuri123@gmail.com" },
+    { icon: FiGithub, label: "GitHub", href: "https://github.com/sumith2425", value: "sumith2425" },
+    { icon: FiLinkedin, label: "LinkedIn", href: "https://linkedin.com/in/sumith-chandra", value: "sumith-chandra" },
     { icon: SiCodeforces, label: "Codeforces", href: "https://codeforces.com/profile/Sumith_chandra", value: "Sumith_chandra" },
   ];
 
@@ -59,7 +59,7 @@ export default function Contact() {
           </div>
 
           <a
-            href="mailto:satkuri.chandra@gmail.com"
+            href="mailto:sumithsatkuri123@gmail.com"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-accent hover:bg-accent-dark text-white font-medium transition-all duration-200 hover:shadow-lg hover:shadow-accent/25"
           >
             <FiSend size={16} />
