@@ -62,7 +62,7 @@ npm run build
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
+Open [https://portfolio-ten-mauve-66.vercel.app/)](https://portfolio-ten-mauve-66.vercel.app/) to view the portfolio.
 
 ## 📁 Project Structure
 
@@ -95,7 +95,6 @@ portfolio/
 ## 📌 Featured Projects
 
 ### 1. 🤖 PaperMind (Mini Jarvis) — Agentic RAG Chat App
-> **[🔗 Live Demo](https://placeholder-minijarvis-link.com)** *(link coming soon)*
 
 Drop in a research paper. Ask anything. Get page-cited explanations — or a live web search, or a direct answer — automatically. PaperMind is a full-stack agentic chat app that turns any PDF/TXT/MD file into a conversation using a **LangGraph state machine**.
 
