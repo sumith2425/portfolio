@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Sumith+Chandra+Satkuri;AI%2FML+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Sumith+Chandra+Satkuri;AI+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ npm run build
 npm start
 ```
 
-Open [https://portfolio-ten-mauve-66.vercel.app/)](https://portfolio-ten-mauve-66.vercel.app/) to view the portfolio.
+Open [https://portfolio-ten-mauve-66.vercel.app/](https://portfolio-ten-mauve-66.vercel.app/) to view the portfolio.
 
 ## 📁 Project Structure
 
